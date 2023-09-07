@@ -23,3 +23,5 @@ Your help in automating the segmentation of microvasculature structures will imp
 - Notebook about my attempt for this competition, with result of submissions.
 
 - Transfer learning from pytorch model, experimenting with image augmentation methods, and dilation (a technique largely discussed during the competition)
+
+- (update) New notebook about wrapping code into pytorch-lightning module
